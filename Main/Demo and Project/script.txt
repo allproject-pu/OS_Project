@@ -1,0 +1,7 @@
+1) docker build -t mylinux .
+2) docker run -it --name mycontainer --hostname myserver mylinux bash
+3) docker exec -it mycontainer /bin/bash
+
+docker cp codes/ mycontainer:/root/
+
+ipcs
