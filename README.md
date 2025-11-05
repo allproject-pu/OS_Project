@@ -56,4 +56,5 @@ Threads    ,  Run 1        ,Run 2        ,Run 3        ,Run 4        ,Run 5     
 24 Threads ,  "12,012.0"   ,"12,383.9"   ,"12,269.9"   ,"12,345.7"   ,"12,232.4"   ,"12,248.8"
 
 Summary: from this 5 run test the Best number of thread is 12 threads.
+Presentation Slide -> https://www.canva.com/design/DAG3Vg8A7us/3AgK9ToC38xX8FleHNG81w/edit?utm_content=DAG3Vg8A7us&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 # OS_Project
